@@ -1,0 +1,26 @@
+{
+  "name": "vue-chat",
+  "version": "1.0.0",
+  "description": "vue-chat",
+  "main": "server.js",
+  "scripts": {
+    "dev": "nodemon server.js"
+  },
+  "dependencies": {
+    "express": "*",
+    "socket.io": "*"
+  },
+  "devDependencies": {
+    "nodemon": "*"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/safwbdev/vue-chat.git"
+  },
+  "author": "Stefaan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/safwbdev/vue-chat/issues"
+  },
+  "homepage": "https://github.com/safwbdev/vue-chat#readme"
+}
